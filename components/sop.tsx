@@ -50,11 +50,11 @@ const procedures = () => {
       </p></li>
       <li><p>
         Hoist Alternator and couple both surrounding and inner bolt (M11 by 40 and M12 by 40) of the Alternator to the flywheel of the engine engine. The rotation of crankshaft of the engine is transmitted to the alternator by coupling the inner bolts.<br/><br/>
-        the inner bolt is fastened using the torque wrench (a tool used to apply a specific torque to a fastener) whic is set to 96Nm<br/><br/>
-        The alternator is held in to the Crossbar using M24 by 80 bolt
+        The inner bolt is fastened using the torque wrench (a tool used to apply a specific torque to a fastener) which is set to 96Nm<br/><br/>
+        The alternator is held on to the Crossbar using M24 by 80 bolt
       </p></li>
       <li><p>
-        Hoist and fasten the Radiator to the assemblage using M12bbt 40   
+        Hoist and fasten the Radiator to the assemblage using M12 by 40   
       </p></li>
       <li><p>
         Fit pipes for water and air  
@@ -75,8 +75,6 @@ const procedures = () => {
         Carry out neccesary adjustment then properly fasten all bolts holding the engine to the base.   
       </p></li>      
       </ul>
-      
-
     </Wrapper>
   )
 }
